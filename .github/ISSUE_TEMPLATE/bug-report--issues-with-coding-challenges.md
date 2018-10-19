@@ -7,6 +7,7 @@ about: Reporting issue with a specific challenge, like broken tests, unclear ins
 <!-- 
 NOTE: If you're reporting a security issue, don't create a GitHub issue. Instead, email security@freecodecamp.org. We will look into it immediately. 
 -->
+**Steps to be followed:-**
 **Describe your problem and how to reproduce it:**
 
 
